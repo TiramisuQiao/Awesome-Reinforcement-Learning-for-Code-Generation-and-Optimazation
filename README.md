@@ -3,7 +3,6 @@
 ## 2018
 - [Releq: A reinforcement learning approach for deep quantization of neural networks](https://arxiv.org/abs/1811.01704)
 - [Compiler optimizations for parallel programs](https://link.springer.com/chapter/10.1007/978-3-319-89661-0_10)
-- 
 
 ## 2019
 - [Optimization of halide image processing schedules with reinforcement learning](https://sol.sbc.org.br/index.php/sscad/article/view/10691)
