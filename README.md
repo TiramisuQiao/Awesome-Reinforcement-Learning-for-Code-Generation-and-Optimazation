@@ -61,6 +61,7 @@
         ↑ Back to Top ↑
     </a>
 </p>
+
 ## 2023
 
 - [A survey on language models for code](https://arxiv.org/abs/2311.07989)
@@ -95,3 +96,12 @@
         ↑ Back to Top ↑
     </a>
 </p>
+
+# Contributing
+
+- Add a new paper or update an existing paper, thinking about which category the work should belong to.
+- Use the same format as existing entries to describe the work.
+- Add the abstract link of the paper (`/abs/` format if it is an arXiv publication).
+
+**Don't worry if you do something wrong, it will be fixed for you!**
+
